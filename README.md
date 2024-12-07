@@ -1,0 +1,1 @@
+# diskret-math-lab-2
