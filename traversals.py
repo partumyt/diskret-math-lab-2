@@ -141,7 +141,7 @@ def adjacency_matrix_radius(graph: list[list]) -> int:
     """
     pass
 
-
+    
 def adjacency_dict_radius(graph: dict[int: list[int]]) -> int:
     """
     :param dict graph: the adjacency list of a given graph
